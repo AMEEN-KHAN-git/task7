@@ -1,5 +1,5 @@
 # task7
-Day 9 task of the Data Analyst Internship
+Day 11 task of the Data Analyst Internship
 
 # Task 7 – Basic Sales Summary using SQLite and Python
 
